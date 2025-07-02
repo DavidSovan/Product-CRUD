@@ -111,3 +111,12 @@ The backend exposes the following RESTful API endpoints:
 - `PUT /api/products/:id`: Update an existing product.
 - `DELETE /api/products/:id`: Delete a product.
 - `GET /api/products/:id/pdf`: Export a product's details as a PDF.
+
+## 📸 Screenshots
+
+<p float="left">
+<img src="https://github.com/user-attachments/assets/0daf14a2-268f-46e7-88e3-29e21d1e210d" alt="Screenshot 1" width="20%" />
+<img src="https://github.com/user-attachments/assets/fc5732de-c36a-4427-81c0-fa602adf3356" alt="Screenshot 2" width="20%" />
+<img src="https://github.com/user-attachments/assets/ab8baf05-abc2-4573-85f9-e4a04f1fad0e" alt="Screenshot 3" width="20%" />
+<img src="https://github.com/user-attachments/assets/9f90aa08-14d5-4e61-a436-db3b4d96c0bf" alt="App Screenshot" width="20%">
+</p>
