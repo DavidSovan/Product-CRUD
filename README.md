@@ -7,7 +7,7 @@ This is a full-stack application that allows users to manage products. It consis
 - Create, Read, Update, and Delete (CRUD) products.
 - Search for products.
 - Export product details as a PDF.
-- Sort pirce & stock
+- Sort price & stock
 
 ## Tech Stack
 
